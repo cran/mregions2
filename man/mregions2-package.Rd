@@ -4,9 +4,9 @@
 \name{mregions2-package}
 \alias{mregions2}
 \alias{mregions2-package}
-\title{mregions2: Access Data from Marineregions.org: Gazetteer & Data Products}
+\title{mregions2: Access Data from Marine Regions: Gazetteer & Data Products}
 \description{
-Explore and retrieve marine geospatial data from the Marine Regions Gazetteer \url{https://marineregions.org/gazetteer.php?p=webservices} and the Marine Regions Data Products \url{https://marineregions.org/webservices.php}.
+Explore and retrieve marine spatial data from the Marine Regions Gazetteer \url{https://marineregions.org/gazetteer.php?p=webservices} and the Marine Regions Data Products \url{https://marineregions.org/webservices.php}.
 }
 \seealso{
 Useful links:
@@ -18,11 +18,11 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Salvador Jesús Fernández Bejarano \email{salvador.fernandez@vliz.be} (\href{https://orcid.org/0000-0003-0535-7677}{ORCID}) (salvafern)
+\strong{Maintainer}: Salvador Jesús Fernández Bejarano \email{salvador.fernandez@vliz.be}
 
 Authors:
 \itemize{
-  \item Lotte Pohl \email{lotte.pohl@imbrsea.eu} (\href{https://orcid.org/0000-0002-7607-7018}{ORCID}) (lottepohl)
+  \item Lotte Pohl \email{lotte.pohl@vliz.be}
 }
 
 Other contributors:
@@ -30,7 +30,6 @@ Other contributors:
   \item Julia Gustavsen [reviewer]
   \item Muralidhar M.A. [reviewer]
   \item Sheila M. Saia [reviewer]
-  \item LifeWatch Belgium (lifewatch.be) [funder]
 }
 
 }
